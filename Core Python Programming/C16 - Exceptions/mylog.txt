@@ -1,0 +1,6 @@
+ERROR:root:There is an error in the problem.
+CRITICAL:root:There is a problem in the design.
+ERROR:root:There is an error in the problem
+CRITICAL:root:There is a problem in the design.
+ERROR:root:There is an error in the problem
+CRITICAL:root:There is a problem in the design
